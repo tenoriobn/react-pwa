@@ -1,0 +1,13 @@
+{
+  "reservas": [
+    {
+      "data_ida": "2024-07-01",
+      "data_volta": "2024-07-10",
+      "origem": "São Paulo",
+      "destino": "Chile",
+      "tipo": "Pacote Completo",
+      "id": "wbIskYeKvfc"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
