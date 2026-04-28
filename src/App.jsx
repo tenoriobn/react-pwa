@@ -4,6 +4,7 @@ import Footer from "./components/Footer";
 import NotificationButton from "./components/NotificationButton";
 import { onMessageListener, requestToken } from "./firebase";
 import { useEffect } from "react";
+import { ToastContainer } from "react-toastify";
 
 function App() {
   useEffect(() => {
@@ -13,6 +14,7 @@ function App() {
   return (
     <>
       <Header />
+      <ToastContainer />
       <NotificationButton action={requestToken} />
       <Outlet />
       <Footer />
