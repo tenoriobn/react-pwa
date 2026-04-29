@@ -7,6 +7,62 @@
       "destino": "Chile",
       "tipo": "Pacote Completo",
       "id": "wbIskYeKvfc"
+    },
+    {
+      "data_ida": "2024-12-20",
+      "data_volta": "2024-12-25",
+      "origem": "São Paulo",
+      "destino": "Veneza",
+      "tipo": "Pacote de Lua de Mel",
+      "id": "gXdhO9hsu8Q"
+    },
+    {
+      "data_ida": "2024-10-20",
+      "data_volta": "2024-10-25",
+      "origem": "Curitiba",
+      "destino": "Turquia",
+      "tipo": "Turismo",
+      "id": "uEUyXq0dFGA"
+    },
+    {
+      "data_ida": "2024-12-20",
+      "data_volta": "2024-12-25",
+      "origem": "São Paulo",
+      "destino": "Veneza",
+      "tipo": "Pacote de Lua de Mel",
+      "id": "oS_l6vzSBFQ"
+    },
+    {
+      "data_ida": "2024-12-20",
+      "data_volta": "2024-12-25",
+      "origem": "São Paulo",
+      "destino": "Veneza",
+      "tipo": "Pacote de Lua de Mel",
+      "id": "_4zogDQcLVc"
+    },
+    {
+      "data_ida": "2024-12-20",
+      "data_volta": "2024-12-25",
+      "origem": "São Paulo",
+      "destino": "Veneza",
+      "tipo": "Pacote de Lua de Mel",
+      "id": "bjbPGq2niF4"
+    },
+    {
+      "data_ida": "2024-10-20",
+      "data_volta": "2024-10-25",
+      "origem": "Curitiba",
+      "destino": "Turquia",
+      "tipo": "Turismo",
+      "id": "vUFS-L1SXlo"
+    },
+    {
+      "data_ida": "2024-07-01",
+      "data_volta": "2024-07-10",
+      "origem": "São Paulo",
+      "destino": "Chile",
+      "tipo": "Pacote Completo",
+      "id": "GZPJktW4Y_g"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"

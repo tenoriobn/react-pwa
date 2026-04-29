@@ -17,7 +17,7 @@ self.addEventListener("fetch", (event) => {
     try {
       const response = await fetch(event.request.clone());
       return response;
-    } catch (error) {
+    } catch (err) {
       await queue.pushRequest({ request: event.request });
     }
   };
